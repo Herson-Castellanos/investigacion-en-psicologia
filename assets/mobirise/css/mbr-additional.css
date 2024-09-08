@@ -1214,6 +1214,9 @@ a {
   position: absolute;
   top: 0;
 }
+.cid-unFAWXWfBA .row {
+  flex-direction: row-reverse;
+}
 .cid-unFAWXWfBA .mbr-text {
   color: #000000;
 }
@@ -2519,6 +2522,58 @@ a {
 .cid-unGWMOwrVb .mbr-section-title {
   color: #000000;
 }
+.cid-unORO3N6by {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #f3fdff;
+}
+.cid-unORO3N6by .justify-content-center {
+  align-items: center;
+}
+.cid-unORO3N6by .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-unORO3N6by .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-unORO3N6by .item-wrapper {
+  display: flex;
+  margin-left: auto;
+}
+@media (max-width: 767px) {
+  .cid-unORO3N6by .item-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-unORO3N6by .mbr-section-btn {
+  padding-left: 1.5rem;
+  text-align: right;
+}
+@media (max-width: 767px) {
+  .cid-unORO3N6by .mbr-section-btn {
+    text-align: center;
+    padding-left: 0rem;
+  }
+}
+.cid-unORO3N6by .row {
+  align-items: center;
+}
+.cid-unORO3N6by .card-text {
+  color: #01546f;
+  margin-bottom: 0px;
+  text-align: right;
+}
+@media (max-width: 767px) {
+  .cid-unORO3N6by .card-text {
+    text-align: center;
+  }
+}
 .cid-umT0tDHiqF {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -3007,7 +3062,7 @@ a {
   padding: 1rem 0;
 }
 .cid-unH6OKI19S .panel-title-edit {
-  color: #026481;
+  color: #c58544;
 }
 .cid-unH6OKI19S .mbr-iconfont {
   padding-left: 1rem;
@@ -3273,6 +3328,26 @@ a {
 .cid-unHb0YbfOj .mbr-section-title {
   color: #000000;
 }
+.cid-unP080R3Bj {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #f3fdff;
+}
+.cid-unP080R3Bj .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-unP080R3Bj .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-unP080R3Bj .mbr-section-title {
+  color: #01546f;
+}
 .cid-unHb95jCld {
   padding-top: 2rem;
   padding-bottom: 1rem;
@@ -3498,54 +3573,6 @@ a {
   }
 }
 .cid-unOlLi1LLC {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #00435e;
-  overflow: hidden;
-}
-.cid-unHc7zO9Ut {
-  background-image: url("../../../assets/images/background3.webp");
-}
-.cid-unHc7zO9Ut .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-unHc7zO9Ut .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-unHc7zO9Ut .card-wrapper {
-  background: #f3fdff;
-}
-@media (max-width: 767px) {
-  .cid-unHc7zO9Ut .card-wrapper {
-    padding: 2rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-unHc7zO9Ut .card-wrapper {
-    padding: 2.25rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-unHc7zO9Ut .card-wrapper {
-    padding: 4rem;
-  }
-}
-.cid-unHc7zO9Ut .mbr-text,
-.cid-unHc7zO9Ut .mbr-section-btn {
-  text-align: left;
-  color: #026481;
-}
-.cid-unHc7zO9Ut .card-title {
-  color: #026481;
-}
-.cid-unGWT3FGaf {
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #00435e;
