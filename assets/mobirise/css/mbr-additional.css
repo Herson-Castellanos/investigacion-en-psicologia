@@ -3332,3 +3332,80 @@ a {
   background-color: #00435e;
   overflow: hidden;
 }
+.cid-unOfPleSju {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.cid-unOfPleSju .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-unOfPleSju .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  background-image: url("../../../assets/images/background1.webp");
+}
+.cid-unOfPleSju .row {
+  flex-direction: row-reverse;
+}
+.cid-unOfPleSju .mbr-description {
+  text-align: left;
+}
+.cid-unOfPleSju .item-wrapper {
+  background: #ffffff;
+  margin-bottom: 2rem;
+  padding: 2.25rem;
+}
+@media (max-width: 767px) {
+  .cid-unOfPleSju .item-wrapper {
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-unOfPleSju .item-wrapper {
+    padding: 2rem 1.5rem;
+    margin-bottom: 2rem;
+  }
+}
+.cid-unOfPleSju .card-title,
+.cid-unOfPleSju .iconfont-wrapper {
+  color: #000000;
+}
+.cid-unOfPleSju .card-text {
+  color: #000000;
+}
+.cid-unOfPleSju .mbr-section-title {
+  color: #f3fdff;
+  text-align: center;
+}
+.cid-unOfPleSju .mbr-number {
+  color: #01546f;
+}
+.cid-unOfPleSju .mbr-text,
+.cid-unOfPleSju .mbr-section-btn {
+  text-align: center;
+}
+.cid-unOfPleSju .card-text,
+.cid-unOfPleSju .item .mbr-section-btn {
+  text-align: left;
+  color: #026481;
+}
+.cid-unOfPleSju .image-wrapper {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-unOfPleSju .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-unOfly0QGQ {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #00435e;
+  overflow: hidden;
+}
